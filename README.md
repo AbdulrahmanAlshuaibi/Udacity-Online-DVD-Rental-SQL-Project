@@ -2,7 +2,7 @@
 
 This project investigate a relational database about Online DVD Rentals.
 
-I have answered FOUR question using SQL thin Visualize the outpot using MS Excel
+I have answered FOUR question using SQL then Visualize the output using MS Excel
 
 The question are:
 
